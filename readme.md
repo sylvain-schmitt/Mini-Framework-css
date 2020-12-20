@@ -11,4 +11,4 @@ Mini-framework css basé sur les classes bootstrap 5
 
 ### Info
 
-permet de structurer rapidement vos pages html tout en étans responsive ;)
+permet de structurer rapidement vos pages html tout en étant responsive ;)
